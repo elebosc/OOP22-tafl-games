@@ -1,4 +1,4 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.api;
 
 import java.util.Map;
 

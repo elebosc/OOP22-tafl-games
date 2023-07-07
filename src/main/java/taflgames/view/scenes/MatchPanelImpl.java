@@ -24,7 +24,7 @@ import java.awt.event.ActionListener;
 import taflgames.common.code.Position;
 import taflgames.view.imagesloader.LoaderImages;
 import taflgames.view.imagesloader.LoaderImagesImpl;
-import taflgames.view.scenecontrollers.MatchSceneController;
+import taflgames.view.scenecontrollers.api.MatchSceneController;
 
 /**
  * Implementation of MatchPanel.

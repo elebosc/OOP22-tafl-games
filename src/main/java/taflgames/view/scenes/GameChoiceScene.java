@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import taflgames.view.fontmanager.FontManager;
-import taflgames.view.scenecontrollers.GameChoiceSceneController;
+import taflgames.view.scenecontrollers.api.GameChoiceSceneController;
 
 import javax.swing.JButton;
 import javax.swing.JLabel;

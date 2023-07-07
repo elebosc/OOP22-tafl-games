@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 import taflgames.common.code.Position;
 import taflgames.view.fontmanager.FontManager;
-import taflgames.view.scenecontrollers.MatchSceneController;
+import taflgames.view.scenecontrollers.api.MatchSceneController;
 
 /**
  * This class implements the scene of the match.

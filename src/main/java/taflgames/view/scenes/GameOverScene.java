@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 import taflgames.common.Player;
 import taflgames.view.fontmanager.FontManager;
-import taflgames.view.scenecontrollers.GameOverController;
+import taflgames.view.scenecontrollers.api.GameOverController;
 
 /**
  * The screen that appears at the end of the game.

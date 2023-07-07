@@ -1,10 +1,11 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.impl;
 
 import java.io.InputStream;
 import java.util.Objects;
 
 import taflgames.controller.Controller;
 import taflgames.view.View;
+import taflgames.view.scenecontrollers.api.RulesSceneController;
 import taflgames.view.scenes.GameChoiceScene;
 
 /**

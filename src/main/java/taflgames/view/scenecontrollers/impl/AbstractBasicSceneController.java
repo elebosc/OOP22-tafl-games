@@ -1,7 +1,8 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.impl;
 
 import taflgames.controller.Controller;
 import taflgames.view.View;
+import taflgames.view.scenecontrollers.api.BasicSceneController;
 
 /**
  * This class implements the state of a generic scene controller (which consists of

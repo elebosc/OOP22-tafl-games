@@ -1,4 +1,4 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.impl;
 
 import java.util.HashMap;
 import java.util.List;
@@ -14,6 +14,7 @@ import taflgames.controller.leaderboard.api.Leaderboard;
 import taflgames.controller.leaderboard.api.LeaderboardSaver;
 import taflgames.controller.leaderboard.code.LeaderboardSaverImpl;
 import taflgames.view.View;
+import taflgames.view.scenecontrollers.api.UserRegistrationController;
 import taflgames.view.scenes.GameOverScene;
 import taflgames.view.scenes.HomeScene;
 

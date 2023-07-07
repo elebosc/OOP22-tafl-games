@@ -21,7 +21,7 @@ import javax.swing.JTable;
 import edu.umd.cs.findbugs.annotations.SuppressFBWarnings;
 import taflgames.common.code.Pair;
 import taflgames.view.fontmanager.FontManager;
-import taflgames.view.scenecontrollers.HighScoreController;
+import taflgames.view.scenecontrollers.api.HighScoreController;
 
 /**
  * A View scene displaying the results of all past matches, if any.
@@ -40,7 +40,7 @@ public class HighScoreScene extends AbstractScene {
 
     /**
      * Builds a new HighScoreScene.
-     * @param controller the {@link taflgames.view.scenecontrollers.HighScoreController}
+     * @param controller the {@link taflgames.view.scenecontrollers.api.HighScoreController}
      * associated to this scene.
      */
     @SuppressFBWarnings(

@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import taflgames.view.fontmanager.FontManager;
-import taflgames.view.scenecontrollers.HomeSceneController;
+import taflgames.view.scenecontrollers.api.HomeSceneController;
 
 import javax.swing.JButton;
 import javax.swing.JLabel;

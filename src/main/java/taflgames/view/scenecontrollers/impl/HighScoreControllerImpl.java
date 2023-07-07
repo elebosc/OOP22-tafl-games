@@ -1,10 +1,11 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.impl;
 
 import java.util.Map;
 
 import taflgames.common.code.Pair;
 import taflgames.controller.Controller;
 import taflgames.view.View;
+import taflgames.view.scenecontrollers.api.HighScoreController;
 import taflgames.view.scenes.HomeScene;
 
 /**

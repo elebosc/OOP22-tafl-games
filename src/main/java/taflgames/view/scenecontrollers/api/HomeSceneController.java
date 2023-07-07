@@ -1,4 +1,4 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.api;
 
 /**
  * This interface extends a generic {@link BasicSceneController}

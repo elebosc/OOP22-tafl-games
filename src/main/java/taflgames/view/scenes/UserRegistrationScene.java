@@ -19,7 +19,7 @@ import javax.swing.SwingConstants;
 import edu.umd.cs.findbugs.annotations.SuppressFBWarnings;
 import taflgames.view.fontmanager.FontManager;
 import taflgames.view.limiter.Limiter;
-import taflgames.view.scenecontrollers.UserRegistrationController;
+import taflgames.view.scenecontrollers.api.UserRegistrationController;
 
 /**
  * Implementation of the user registration scene.

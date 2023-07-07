@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 import edu.umd.cs.findbugs.annotations.SuppressFBWarnings;
 import taflgames.controller.Controller;
 import taflgames.controller.ControllerImpl;
-import taflgames.view.scenecontrollers.HomeSceneControllerImpl;
+import taflgames.view.scenecontrollers.impl.HomeSceneControllerImpl;
 import taflgames.view.scenes.HomeScene;
 import taflgames.view.scenes.Scene;
 

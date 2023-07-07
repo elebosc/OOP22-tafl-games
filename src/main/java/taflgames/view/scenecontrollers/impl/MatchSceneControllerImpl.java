@@ -1,4 +1,4 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.impl;
 
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -11,6 +11,7 @@ import taflgames.controller.mapper.CellTypeMapper;
 import taflgames.controller.mapper.PieceImageMapper;
 import taflgames.controller.mapper.PieceTypeMapper;
 import taflgames.view.View;
+import taflgames.view.scenecontrollers.api.MatchSceneController;
 import taflgames.view.scenes.CellImageInfo;
 import taflgames.view.scenes.GameOverScene;
 import taflgames.view.scenes.HomeScene;

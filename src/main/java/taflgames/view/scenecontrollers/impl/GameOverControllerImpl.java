@@ -1,4 +1,4 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.impl;
 
 import java.util.Optional;
 
@@ -7,11 +7,12 @@ import taflgames.common.code.MatchResult;
 import taflgames.common.code.Pair;
 import taflgames.controller.Controller;
 import taflgames.view.View;
+import taflgames.view.scenecontrollers.api.GameOverController;
 import taflgames.view.scenes.HomeScene;
 import taflgames.view.scenes.UserRegistrationScene;
 
 /**
- * This interface extends a generic {@link BasicSceneController}
+ * This interface extends a generic {@link taflgames.view.scenecontrollers.api.BasicSceneController}
  * to add specific functions for a {@link taflgames.view.scenes.GameOverScene}.
  */
 public final class GameOverControllerImpl extends AbstractBasicSceneController implements GameOverController {

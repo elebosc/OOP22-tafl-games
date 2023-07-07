@@ -6,7 +6,7 @@ import java.util.Optional;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import taflgames.common.code.Position;
-import taflgames.view.scenecontrollers.MatchSceneController;
+import taflgames.view.scenecontrollers.api.MatchSceneController;
 
 /**
  * The panel in which the match will take place.

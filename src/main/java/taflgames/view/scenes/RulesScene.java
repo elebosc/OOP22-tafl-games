@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import taflgames.view.fontmanager.FontManager;
-import taflgames.view.scenecontrollers.RulesSceneController;
+import taflgames.view.scenecontrollers.api.RulesSceneController;
 
 /**
  * Implementation of the scene that shows the rules of the game modes.

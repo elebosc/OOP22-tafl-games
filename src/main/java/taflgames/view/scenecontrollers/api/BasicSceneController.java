@@ -1,4 +1,4 @@
-package taflgames.view.scenecontrollers;
+package taflgames.view.scenecontrollers.api;
 
 /**
  * This interface defines the basic functionalities of a generic scene controller.
