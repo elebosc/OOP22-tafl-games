@@ -1,4 +1,4 @@
-package taflgames.view.scenes;
+package taflgames.view.scenes.impl;
 
 import java.awt.BorderLayout;
 import java.awt.Font;

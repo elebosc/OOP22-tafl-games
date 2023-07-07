@@ -1,7 +1,7 @@
 package taflgames.controller.mapper;
 
 import taflgames.controller.entitystate.PieceState;
-import taflgames.view.scenes.PieceImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 
 /**
  * A class used to map PieceStates to their particular PieceImageInfo.

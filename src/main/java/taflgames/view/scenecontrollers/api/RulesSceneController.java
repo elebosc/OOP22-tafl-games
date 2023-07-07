@@ -4,7 +4,7 @@ import java.io.InputStream;
 
 /**
  * This interface extends a generic {@link BasicSceneController}
- * to add specific functions for a {@link taflgames.view.scenes.RulesScene}.
+ * to add specific functions for a {@link taflgames.view.scenes.impl.RulesScene}.
  */
 public interface RulesSceneController extends BasicSceneController {
 

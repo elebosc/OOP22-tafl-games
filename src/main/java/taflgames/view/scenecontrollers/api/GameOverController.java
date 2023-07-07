@@ -6,11 +6,11 @@ import taflgames.common.Player;
 
 /**
  * This interface extends a generic {@link BasicSceneController}
- * to add specific functions for a {@link taflgames.view.scenes.GameOverScene}.
+ * to add specific functions for a {@link taflgames.view.scenes.impl.GameOverScene}.
  */
 public interface GameOverController extends BasicSceneController {
     /**
-     * Sets the scene to a {@link taflgames.view.scenes.UserRegistrationScene}.
+     * Sets the scene to a {@link taflgames.view.scenes.impl.UserRegistrationScene}.
      */
     void goToRegistrationScene();
 

@@ -1,6 +1,7 @@
-package taflgames.view.scenes;
+package taflgames.view.imageinfo.impl;
 
 import taflgames.common.Player;
+import taflgames.view.imageinfo.api.ImageInfo;
 
 /**
  * This class contains and gives information about the image of a piece.

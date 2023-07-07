@@ -11,15 +11,15 @@ import taflgames.controller.mapper.CellTypeMapper;
 import taflgames.controller.mapper.PieceImageMapper;
 import taflgames.controller.mapper.PieceTypeMapper;
 import taflgames.view.View;
+import taflgames.view.imageinfo.impl.CellImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 import taflgames.view.scenecontrollers.api.MatchSceneController;
-import taflgames.view.scenes.CellImageInfo;
-import taflgames.view.scenes.GameOverScene;
-import taflgames.view.scenes.HomeScene;
-import taflgames.view.scenes.MatchScene;
-import taflgames.view.scenes.PieceImageInfo;
+import taflgames.view.scenes.impl.GameOverScene;
+import taflgames.view.scenes.impl.HomeScene;
+import taflgames.view.scenes.impl.MatchScene;
 
 /**
- * This class implements a scene controller for a {@link taflgames.view.scenes.MatchScene}.
+ * This class implements a scene controller for a {@link taflgames.view.scenes.impl.MatchScene}.
  */
 public final class MatchSceneControllerImpl extends AbstractBasicSceneController implements MatchSceneController {
 

@@ -1,4 +1,4 @@
-package taflgames.view.scenes;
+package taflgames.view.scenes.impl;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -22,9 +22,12 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import taflgames.common.code.Position;
+import taflgames.view.imageinfo.impl.CellImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 import taflgames.view.imagesloader.LoaderImages;
 import taflgames.view.imagesloader.LoaderImagesImpl;
 import taflgames.view.scenecontrollers.api.MatchSceneController;
+import taflgames.view.scenes.api.MatchPanel;
 
 /**
  * Implementation of MatchPanel.

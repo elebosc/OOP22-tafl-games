@@ -3,11 +3,11 @@ package taflgames.view.scenecontrollers.impl;
 import taflgames.controller.Controller;
 import taflgames.view.View;
 import taflgames.view.scenecontrollers.api.HomeSceneController;
-import taflgames.view.scenes.GameChoiceScene;
-import taflgames.view.scenes.HighScoreScene;
+import taflgames.view.scenes.impl.GameChoiceScene;
+import taflgames.view.scenes.impl.HighScoreScene;
 
 /**
- * This class implements a scene controller for a {@link taflgames.view.scenes.HomeScene}.
+ * This class implements a scene controller for a {@link taflgames.view.scenes.impl.HomeScene}.
  */
 public final class HomeSceneControllerImpl extends AbstractBasicSceneController implements HomeSceneController {
 

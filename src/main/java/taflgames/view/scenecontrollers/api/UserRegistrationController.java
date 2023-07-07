@@ -4,7 +4,7 @@ import taflgames.common.code.MatchResult;
 
 /**
  * This interface extends a generic {@link BasicSceneController}
- * to add specific functions for a {@link taflgames.view.scenes.UserRegistrationScene}.
+ * to add specific functions for a {@link taflgames.view.scenes.impl.UserRegistrationScene}.
  */
 public interface UserRegistrationController extends BasicSceneController {
 

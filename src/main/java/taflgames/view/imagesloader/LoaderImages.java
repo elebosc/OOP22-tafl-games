@@ -4,8 +4,8 @@ import java.util.Map;
 
 import javax.swing.ImageIcon;
 
-import taflgames.view.scenes.CellImageInfo;
-import taflgames.view.scenes.PieceImageInfo;
+import taflgames.view.imageinfo.impl.CellImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 
 /**
  * This inteface allows to load the images that are used to represent 

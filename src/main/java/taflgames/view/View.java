@@ -1,6 +1,6 @@
 package taflgames.view;
 
-import taflgames.view.scenes.Scene;
+import taflgames.view.scenes.api.Scene;
 
 /**
  * The view of the application.

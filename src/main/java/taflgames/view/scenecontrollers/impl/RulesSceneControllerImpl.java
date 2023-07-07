@@ -6,10 +6,10 @@ import java.util.Objects;
 import taflgames.controller.Controller;
 import taflgames.view.View;
 import taflgames.view.scenecontrollers.api.RulesSceneController;
-import taflgames.view.scenes.GameChoiceScene;
+import taflgames.view.scenes.impl.GameChoiceScene;
 
 /**
- * This class implements a scene controller for a {@link taflgames.view.scenes.RulesScene}.
+ * This class implements a scene controller for a {@link taflgames.view.scenes.impl.RulesScene}.
  */
 public final class RulesSceneControllerImpl extends AbstractBasicSceneController implements RulesSceneController {
 

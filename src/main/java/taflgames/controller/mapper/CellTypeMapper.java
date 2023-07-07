@@ -3,7 +3,7 @@ package taflgames.controller.mapper;
 import taflgames.common.Player;
 import taflgames.common.api.Vector;
 import taflgames.controller.entitystate.CellState;
-import taflgames.view.scenes.CellImageInfo;
+import taflgames.view.imageinfo.impl.CellImageInfo;
 
 /**
  * A class used to map CellStates to their relevant CellImageInfo.

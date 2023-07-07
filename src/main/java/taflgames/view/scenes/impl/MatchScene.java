@@ -1,4 +1,4 @@
-package taflgames.view.scenes;
+package taflgames.view.scenes.impl;
 
 import java.awt.Dimension;
 import java.util.Map;
@@ -10,6 +10,8 @@ import javax.swing.JPanel;
 
 import taflgames.common.code.Position;
 import taflgames.view.fontmanager.FontManager;
+import taflgames.view.imageinfo.impl.CellImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 import taflgames.view.scenecontrollers.api.MatchSceneController;
 
 /**

@@ -4,7 +4,7 @@ import java.io.IOException;
 
 /**
  * This interface extends a generic {@link BasicSceneController}
- * to add specific functions for a {@link taflgames.view.scenes.GameChoiceScene}.
+ * to add specific functions for a {@link taflgames.view.scenes.impl.GameChoiceScene}.
  */
 public interface GameChoiceSceneController extends BasicSceneController {
 

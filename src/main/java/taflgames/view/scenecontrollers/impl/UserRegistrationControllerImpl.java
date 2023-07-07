@@ -15,8 +15,8 @@ import taflgames.controller.leaderboard.api.LeaderboardSaver;
 import taflgames.controller.leaderboard.code.LeaderboardSaverImpl;
 import taflgames.view.View;
 import taflgames.view.scenecontrollers.api.UserRegistrationController;
-import taflgames.view.scenes.GameOverScene;
-import taflgames.view.scenes.HomeScene;
+import taflgames.view.scenes.impl.GameOverScene;
+import taflgames.view.scenes.impl.HomeScene;
 
 /**
  * This class implements user registration scene controller.

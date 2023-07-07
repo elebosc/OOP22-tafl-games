@@ -1,9 +1,10 @@
-package taflgames.view.scenes;
+package taflgames.view.scenes.impl;
 
 import javax.swing.JPanel;
 
 import edu.umd.cs.findbugs.annotations.SuppressFBWarnings;
 import taflgames.view.fontmanager.FontManager;
+import taflgames.view.scenes.api.Scene;
 
 import java.awt.Graphics;
 import java.awt.Image;

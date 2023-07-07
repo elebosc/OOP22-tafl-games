@@ -1,4 +1,4 @@
-package taflgames.view.scenes;
+package taflgames.view.scenes.api;
 
 import javax.swing.JPanel;
 

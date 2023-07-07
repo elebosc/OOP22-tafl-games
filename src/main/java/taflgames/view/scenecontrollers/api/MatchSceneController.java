@@ -4,12 +4,12 @@ import java.util.Map;
 
 import taflgames.common.Player;
 import taflgames.common.code.Position;
-import taflgames.view.scenes.CellImageInfo;
-import taflgames.view.scenes.PieceImageInfo;
+import taflgames.view.imageinfo.impl.CellImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 
 /**
  * This interface extends a generic {@link BasicSceneController}
- * to add specific functions for a {@link taflgames.view.scenes.MatchScene}.
+ * to add specific functions for a {@link taflgames.view.scenes.impl.MatchScene}.
  */
 public interface MatchSceneController extends BasicSceneController {
 

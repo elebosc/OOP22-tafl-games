@@ -1,4 +1,4 @@
-package taflgames.view.scenes;
+package taflgames.view.imageinfo.api;
 
 import taflgames.common.Player;
 

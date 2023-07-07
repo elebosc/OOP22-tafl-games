@@ -1,4 +1,4 @@
-package taflgames.view.scenes;
+package taflgames.view.scenes.api;
 
 import java.util.Map;
 import java.util.Optional;
@@ -6,6 +6,8 @@ import java.util.Optional;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import taflgames.common.code.Position;
+import taflgames.view.imageinfo.impl.CellImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 import taflgames.view.scenecontrollers.api.MatchSceneController;
 
 /**

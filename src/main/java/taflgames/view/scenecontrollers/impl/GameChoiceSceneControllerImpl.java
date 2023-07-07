@@ -5,12 +5,12 @@ import java.io.IOException;
 import taflgames.controller.Controller;
 import taflgames.view.View;
 import taflgames.view.scenecontrollers.api.GameChoiceSceneController;
-import taflgames.view.scenes.HomeScene;
-import taflgames.view.scenes.MatchScene;
-import taflgames.view.scenes.RulesScene;
+import taflgames.view.scenes.impl.HomeScene;
+import taflgames.view.scenes.impl.MatchScene;
+import taflgames.view.scenes.impl.RulesScene;
 
 /**
- * This class implements a scene controller for a {@link taflgames.view.scenes.GameChoiceScene}.
+ * This class implements a scene controller for a {@link taflgames.view.scenes.impl.GameChoiceScene}.
  */
 public final class GameChoiceSceneControllerImpl extends AbstractBasicSceneController implements GameChoiceSceneController {
 

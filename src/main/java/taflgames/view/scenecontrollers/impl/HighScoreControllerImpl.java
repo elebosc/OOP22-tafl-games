@@ -6,7 +6,7 @@ import taflgames.common.code.Pair;
 import taflgames.controller.Controller;
 import taflgames.view.View;
 import taflgames.view.scenecontrollers.api.HighScoreController;
-import taflgames.view.scenes.HomeScene;
+import taflgames.view.scenes.impl.HomeScene;
 
 /**
  * A controller for the HighScore Scene, which displays players' results organised

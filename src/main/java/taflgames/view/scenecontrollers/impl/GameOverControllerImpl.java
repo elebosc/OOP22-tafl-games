@@ -8,12 +8,12 @@ import taflgames.common.code.Pair;
 import taflgames.controller.Controller;
 import taflgames.view.View;
 import taflgames.view.scenecontrollers.api.GameOverController;
-import taflgames.view.scenes.HomeScene;
-import taflgames.view.scenes.UserRegistrationScene;
+import taflgames.view.scenes.impl.HomeScene;
+import taflgames.view.scenes.impl.UserRegistrationScene;
 
 /**
  * This interface extends a generic {@link taflgames.view.scenecontrollers.api.BasicSceneController}
- * to add specific functions for a {@link taflgames.view.scenes.GameOverScene}.
+ * to add specific functions for a {@link taflgames.view.scenes.impl.GameOverScene}.
  */
 public final class GameOverControllerImpl extends AbstractBasicSceneController implements GameOverController {
 

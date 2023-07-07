@@ -12,8 +12,8 @@ import edu.umd.cs.findbugs.annotations.SuppressFBWarnings;
 import taflgames.controller.Controller;
 import taflgames.controller.ControllerImpl;
 import taflgames.view.scenecontrollers.impl.HomeSceneControllerImpl;
-import taflgames.view.scenes.HomeScene;
-import taflgames.view.scenes.Scene;
+import taflgames.view.scenes.api.Scene;
+import taflgames.view.scenes.impl.HomeScene;
 
 /**
  * This class implements the view of the application.

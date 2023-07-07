@@ -11,8 +11,8 @@ import javax.swing.ImageIcon;
 
 import taflgames.common.Player;
 import taflgames.common.code.VectorImpl;
-import taflgames.view.scenes.CellImageInfo;
-import taflgames.view.scenes.PieceImageInfo;
+import taflgames.view.imageinfo.impl.CellImageInfo;
+import taflgames.view.imageinfo.impl.PieceImageInfo;
 
 /**
  * This class models a LoaderImages {@link taflgames.view.imagesloader.LoaderImages}.
